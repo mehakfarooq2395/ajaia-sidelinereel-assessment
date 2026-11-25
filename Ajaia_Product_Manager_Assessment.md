@@ -1,6 +1,6 @@
 # Ajaia — Product Manager Assessment
 
-**Video walkthrough:** [Insert public video URL before submission]
+**Video walkthrough:** [Watch the Loom video walkthrough](https://www.loom.com/share/9593258840f142a39b71fe827233b3b7)
 
 **Candidate:** Mehak Farooq  
 **Product:** SidelineReel  
